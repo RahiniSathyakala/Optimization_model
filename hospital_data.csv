@@ -1,0 +1,4 @@
+Department,Patients_Demand,Available_Beds,Available_Nurses,Cost_Per_Nurse,Penalty_Unmet_Patient
+ER,40,35,10,2500,10000
+ICU,12,10,6,3000,20000
+GeneralWard,55,35,9,2000,8000
