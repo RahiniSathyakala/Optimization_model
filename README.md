@@ -93,3 +93,4 @@ Input (Available Nurses & Beds)
 
 ## 📊 Example Output
 
+<img width="1102" height="996" alt="Image" src="https://github.com/user-attachments/assets/8e770305-25a6-4e27-a690-673404efbf32" />
